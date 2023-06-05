@@ -1,0 +1,1 @@
+print("test for sync between vsc and git")
